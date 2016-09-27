@@ -1,2 +1,0 @@
-# Tribbbo
-an android app
