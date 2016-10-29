@@ -12,4 +12,8 @@
     <string name="user_profile_picture">User profile picture</string>
     <string name="logout">log out</string>
     <string name="auth_activity_title">Log into Dribbble</string>
+    <string name="like">Like</string>
+    <string name="bucket">Bucket</string>
+    <string name="share">Share</string>
+    <string name="shot_author_picture">Shot author picture</string>
 </resources>
